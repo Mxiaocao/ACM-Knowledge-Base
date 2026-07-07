@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-来源：Codeforces / ZJU Summer 2026 Contest 1
+来源：ZJU Summer 2026 Contest 1
 难度：偏难
 状态：未补懂 / 回炉中
 日期：2026/7/6

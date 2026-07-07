@@ -9,7 +9,7 @@
 比赛日期：2026/7/7
 复盘日期：2026/7/7
 入库日期：2026/7/7
-题目链接：待补
+题目链接：https://codeforces.com/gym/702920/problem/C
 正式文件名：`7-2 Lyndonization.md`
 
 ## 题意简述

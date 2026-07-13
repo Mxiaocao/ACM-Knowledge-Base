@@ -133,4 +133,14 @@
 
 - 做题时先写每回合贡献式。
 - 看到 `n`、`K` 都很大时，先排除 `O(nK)`。
-- 对“最多选 K 次操作”的题，主动尝试转成 [[TopK 选择]]。
+- 对”最多选 K 次操作”的题，主动尝试转成 [[TopK 选择]]。
+
+## Contest 1 比赛复盘
+
+本日的 [[7-5 Cross]] 和 [[7-6 Shugenja]] 来自 2026-07-06 的 [[ZJU Summer 2026 Contest 1]]。该场比赛完整参赛，现场 0 题通过。
+
+赛时主要尝试 A（Shugenja）、C（Disjoint LIS and LDS）、E（Cross），做题顺序 A → C → E。A、C 都在样例观察阶段停留较久但没有推出一般规律；E 因题面较长产生回避。
+
+本日另有 Educational Codeforces Round 192（[[CF 2242B - Predominant Frequency Division]]），是另一场独立比赛。
+
+赛后 A 保持回炉中，E 在提示后完成。完整比赛复盘见：[[ZJU Summer 2026 Contest 1]]。

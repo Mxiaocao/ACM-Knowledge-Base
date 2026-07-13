@@ -62,6 +62,10 @@
 
 本日的 [[CF 2242B - Predominant Frequency Division]] 是对 2026-07-06 [[Educational Codeforces Round 192 (Rated for Div. 2)]] 的赛后补题。该场比赛赛时 B 连续 4 次 WA2 未通过，次日提示后完成并独立实现提交通过。当前状态：提示后完成、已提交通过、未二刷。完整比赛复盘见：[[Educational Codeforces Round 192 (Rated for Div. 2)]]。
 
+## ZJU Summer 2026 Contest 2 比赛复盘
+
+本日的 [[7-2 Lyndonization]] 和 [[C. Cool P No.1|C. Cool P #1]] 来自同日举行的 [[ZJU Summer 2026 Contest 2]]。该场比赛完整参赛，现场 0 题通过。做题顺序 B → C：B 多次 WA（构造规律错误），C 尝试未提交；A、D、E、F 未读。赛后 B 提示后完成、C 回炉中（已有严格实现但提交待验证）。完整比赛复盘见：[[ZJU Summer 2026 Contest 2]]。
+
 ## 明日训练建议
 
 - 先手写两刀暴力，再推导前缀差。

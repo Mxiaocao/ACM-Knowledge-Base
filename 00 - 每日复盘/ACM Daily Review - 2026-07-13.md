@@ -57,3 +57,7 @@
 - 方案归属：逐层扩展为自己 AC 方案，循环左移为 AC 后补充方案。
 - 是否二刷：否
 - 正式复盘：[[D. Rainbow]]
+
+## Contest 5 比赛复盘
+
+本日的 D 和 C 来自同日举行的 [[ZJU Summer 2026 Contest 5]]。该场比赛完整参赛，现场通过 1 题（D）。做题顺序 D → C：D 第一发 WA 后修正并独立 AC；C 题意没有读懂，读题未做；A、B、E、F 未读。赛后 C 提示后完成并提交通过，当前未二刷。本日另有 [[C. 0mar and Alternating Sums]] 来自 Codeforces Round 1108。完整比赛复盘见：[[ZJU Summer 2026 Contest 5]]。

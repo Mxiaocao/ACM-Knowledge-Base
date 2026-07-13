@@ -106,3 +106,7 @@
 - 主要问题：一开始被"期望 + 最优策略 + 动态询问 + 模意义下分数"吓住，没有想到固定真实答案 m，先计算 depth(m)，再对所有 m 取平均。
 - 收获：期望可以转成所有 m 的 depth(m) 平均值；询问 m mod x = 0 本质是在确认质因子；depth(m) 由 Omega(m) 和两类 No 的 max 组成；最终通过 spf、omega、maxPrime、pi 预处理公式。
 - 链接：[[E. Does It Divide？]]
+
+## Contest 3 比赛复盘
+
+本日的 C、D、E 均来自同日举行的 [[ZJU Summer 2026 Contest 3]]。该场比赛完整参赛，现场通过 1 题（C）。做题顺序 C → D → E：C 赛时独立 AC；D 卡在进制和 `cnt_n(x)` 未提交；E 因期望产生畏难未提交；A、B、F 仅快速浏览。赛后 D、E 提示后完成，D 已赛后提交 AC，D、E 当前未二刷。完整比赛复盘见：[[ZJU Summer 2026 Contest 3]]。

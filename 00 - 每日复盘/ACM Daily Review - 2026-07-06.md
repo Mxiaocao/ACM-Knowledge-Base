@@ -144,3 +144,13 @@
 本日另有 Educational Codeforces Round 192（[[CF 2242B - Predominant Frequency Division]]），是另一场独立比赛。
 
 赛后 A 保持回炉中，E 在提示后完成。完整比赛复盘见：[[ZJU Summer 2026 Contest 1]]。
+
+## Educational Codeforces Round 192 比赛复盘
+
+本日同时参加了 [[Educational Codeforces Round 192 (Rated for Div. 2)]]，比赛时间为北京时间 22:35–00:35。
+
+该场比赛完整参赛，排名 11740，现场通过 1 题。A. Bigrams 于 22:45 一发 AC。B. Predominant Frequency Division 连续 4 次 WA（均为 test 2），赛时未通过。C–F 未读题。
+
+赛后 B 在 2026-07-07 提示后完成并提交通过，当前已有单题复盘 [[CF 2242B - Predominant Frequency Division]]，仍在二刷清单。
+
+本日同时参加了 ZJU Summer 2026 Contest 1 和 Edu Round 192 两场比赛。完整比赛复盘见：[[Educational Codeforces Round 192 (Rated for Div. 2)]]。

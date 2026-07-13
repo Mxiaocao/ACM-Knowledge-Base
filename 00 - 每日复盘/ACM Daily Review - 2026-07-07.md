@@ -58,6 +58,10 @@
 
 本日的 B. Games 和 E. Sum Sum Xor 是对 2026-07-05 [[ZJU Summer 2026 Warmup]] 的赛后补题。Warmup 现场通过 0 题，赛后只补了 B 和 E。完整比赛复盘见：[[ZJU Summer 2026 Warmup]]。
 
+## Educational Codeforces Round 192 补题复盘
+
+本日的 [[CF 2242B - Predominant Frequency Division]] 是对 2026-07-06 [[Educational Codeforces Round 192 (Rated for Div. 2)]] 的赛后补题。该场比赛赛时 B 连续 4 次 WA2 未通过，次日提示后完成并独立实现提交通过。当前状态：提示后完成、已提交通过、未二刷。完整比赛复盘见：[[Educational Codeforces Round 192 (Rated for Div. 2)]]。
+
 ## 明日训练建议
 
 - 先手写两刀暴力，再推导前缀差。

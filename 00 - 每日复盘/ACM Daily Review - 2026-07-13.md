@@ -22,6 +22,10 @@
 - 是否二刷：未二刷
 - 正式复盘：[[C. 0mar and Alternating Sums]]
 
+## Codeforces Round 1108 补题记录
+
+本日的 [[C. 0mar and Alternating Sums]] 来源于 2026-07-12 [[Codeforces Round 1108 (Div. 2)]]。C 赛时尝试未提交；2026-07-13 参考题解后理解正确方向，随后独立完成代码实现并于 01:05 提交通过。正式状态为看题解后完成，当前未二刷。完整比赛复盘见：[[Codeforces Round 1108 (Div. 2)]]。
+
 ## 今日问题诊断
 
 - 计数题中，看到"统计子序列数量"直接尝试 DP，没有先利用非递减性刻画合法对象的强结构。

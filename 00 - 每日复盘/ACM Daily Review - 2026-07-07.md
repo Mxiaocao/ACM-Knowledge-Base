@@ -54,6 +54,10 @@
 
 继续二刷 [[CF 2242B - Predominant Frequency Division]] 的切点边界和前缀差转化。
 
+## Warmup 比赛复盘
+
+本日的 B. Games 和 E. Sum Sum Xor 是对 2026-07-05 [[ZJU Summer 2026 Warmup]] 的赛后补题。Warmup 现场通过 0 题，赛后只补了 B 和 E。完整比赛复盘见：[[ZJU Summer 2026 Warmup]]。
+
 ## 明日训练建议
 
 - 先手写两刀暴力，再推导前缀差。

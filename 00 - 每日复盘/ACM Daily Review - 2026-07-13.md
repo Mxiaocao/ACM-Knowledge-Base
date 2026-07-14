@@ -65,3 +65,17 @@
 ## Contest 5 比赛复盘
 
 本日的 D 和 C 来自同日举行的 [[ZJU Summer 2026 Contest 5]]。该场比赛完整参赛，现场通过 1 题（D）。做题顺序 D → C：D 第一发 WA 后修正并独立 AC；C 题意没有读懂，读题未做；A、B、E、F 未读。赛后 C 提示后完成并提交通过，当前未二刷。本日另有 [[C. 0mar and Alternating Sums]] 来自 Codeforces Round 1108。完整比赛复盘见：[[ZJU Summer 2026 Contest 5]]。
+
+## Contest 4 补题记录
+
+本日补做 [[B. Dune]]，来源为 2026-07-10 [[ZJU Summer 2026 Contest 4]]。
+
+- 赛时：读题未做，没有形成有效思路，无提交。
+- 补题日期：2026-07-13。
+- 完整算法和参考代码由教练给出；用户根据理解重新编写。
+- 第一次提交 TLE on test 12；Debug 时由教练定位 `a[i].op` 与 `a[k].op` 混用。
+- 修改后正式 AC。
+- 状态：看题解后完成。
+- 掌握程度：大致理解但实现不稳。
+- 二刷：未二刷。
+- 关联：[[B. Dune]]、[[ZJU Summer 2026 Contest 4]]。

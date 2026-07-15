@@ -152,6 +152,7 @@ CF2202C 当前是 C 级临时占位。
 
 - [[CF 2242B - Predominant Frequency Division]]：对应 CF2242B，基础题库 M5 前缀、差分与区间压缩。
 - [[C. 0mar and Alternating Sums]]：对应 CF2246C，进阶题库 M9 小状态 DP、博弈与极值状态。
+- [[B. Annoying the Ghost]]：对应 CF2237B，基础题库 M3；看题解后完成，已 AC，未二刷。
 
 其余题目当前未确认到可安全链接的已有单题复盘。
 

@@ -154,6 +154,7 @@ CF2202C 当前是 C 级临时占位。
 - [[C. 0mar and Alternating Sums]]：对应 CF2246C，进阶题库 M9 小状态 DP、博弈与极值状态。
 - [[B. Annoying the Ghost]]：对应 CF2237B，基础题库 M3；看题解后完成，已 AC，未二刷。
 - [[C. Omsk Programmers]]：对应 CF2236C，基础题库 M3；提示后完成，已 AC，未二刷。
+- [[B. Absolute Cinema]]：对应 CF2229B，基础题库 M3；独立 AC，证明仍需二刷。
 
 其余题目当前未确认到可安全链接的已有单题复盘。
 
